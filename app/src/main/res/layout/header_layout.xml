@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Course: Mobile Programming
+ Professor: Mervat Mustafa
+ Author: Nair Parvathi
+ student# 41122807
+ File name: header_layout.xml
+ Date: 29/11//2024
+ Final Project
+-->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="50dp">
+
+</LinearLayout>
